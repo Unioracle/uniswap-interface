@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "description": "Unoracle Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
